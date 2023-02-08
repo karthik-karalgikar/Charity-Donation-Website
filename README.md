@@ -25,3 +25,6 @@ Screenshot 4: Showing the amount of money the user wants to donate. The user can
 
 <img width="687" alt="Screenshot 2023-02-08 at 2 37 15 PM" src="https://user-images.githubusercontent.com/91562537/217484678-c988d001-1690-4fbf-ab6e-5321453b48db.png">
 Screenshot 5: This page provides the user options of paying the amount to the organisation. The user can either choose Credit/Debit card or UPI/E-Wallets.
+
+<img width="736" alt="Screenshot 2023-02-08 at 2 38 23 PM" src="https://user-images.githubusercontent.com/91562537/217484930-9a1437c2-18e0-4532-a7d9-226dec08b848.png">
+Screenshot 6: Showing the Card details page. Here the user will have to enter the card number, expiration date, Name on card and their CVV. Everything except CVV will be stored in the database so that the user can make the donation quickly the next time.
