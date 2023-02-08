@@ -13,3 +13,6 @@ The attributes of table "UPI" are Org_ID, recName and rec_upiID.
 
 <img width="791" alt="Screenshot 2023-02-08 at 2 32 09 PM" src="https://user-images.githubusercontent.com/91562537/217483528-d3c64023-ce89-4255-9b12-445fcb4207df.png">
 Screenshot 1 : Showing the homepage. When the user clicks on the “DONATE” button, the user will be taken to the login page.
+
+<img width="658" alt="Screenshot 2023-02-08 at 2 33 49 PM" src="https://user-images.githubusercontent.com/91562537/217483865-562c18df-06a2-4ca2-8d60-0e8cb5836375.png">
+Screenshot 2: Showing the Login Page. Here the user has to enter their first name, last name, email, create a password and then enter their phone number and click on submit. They will be directed to the organisation table where they have to select an organisation.
