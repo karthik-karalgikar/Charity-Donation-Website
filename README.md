@@ -31,3 +31,6 @@ Screenshot 6: Showing the Card details page. Here the user will have to enter th
 
 <img width="755" alt="Screenshot 2023-02-08 at 2 39 27 PM" src="https://user-images.githubusercontent.com/91562537/217485148-041fbd62-884c-48c4-b215-8c6214b3dda2.png">
 Screenshot 7: Showing the UPI options page. Here the user can select any one among the three payment options, Pay, PhonePe or Paytm. When the user clicks on submit, the entering details page opens up.
+
+<img width="777" alt="Screenshot 2023-02-08 at 2 40 30 PM" src="https://user-images.githubusercontent.com/91562537/217485370-7ae19769-472e-4467-beb5-65f2c09bf003.png">
+Screenshot 8: Showing the UPI details page. Here the user will have to enter the Organisation ID, Receiver’s name, and the receiver’s UPI ID. When the user clicks on submit, the payment is done.
