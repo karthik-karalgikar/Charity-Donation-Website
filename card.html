@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Card Page</title>
+    <link rel="stylesheet" href="card.css"/> 
+  </head>
+  <body>
+    <div class="container">
+      <div class="row col-md-6 col-md-offset-3">
+        <div class="panel panel-primary">
+          <div class="panel-heading text-center">
+            <h1>ENTER DETAILS</h1>
+          </div>
+          <div class="panel-body">
+            <form action="card.php" method="post">
+              <div class="input-div form-group">
+                <label for="cardNO">Enter Card number : </label>
+                <input
+                placeholder="Enter card number"
+                  type="number"
+                  class="form-control"
+                  id="cardNO"
+                  name="cardNO"
+                />
+              </div>
+              <br>
+              <div class="form-group">
+                <label for="expDate">Enter Expiration Date : </label>
+                <input
+                  placeholder="Enter expiration date"
+                  type="text"
+                  class="form-control"
+                  id="expDate"
+                  name="expDate"
+                />
+              </div>
+              <br>
+              <div class="form-group">
+                <label for="nameOnCard">Enter Name on card : </label>
+                <input
+                placeholder="Enter name on card"
+                  type="text"
+                  class="form-control"
+                  id="nameOnCard"
+                  name="nameOnCard"
+                />
+              </div>
+              <br>
+              <div class="form-group">
+                <label for="cvv">CVV: </label>
+                <input
+                  placeholder="Enter CVV"
+                  type="password"
+                  class="form-control"
+                  id="cvv"
+                  name="cvv"
+                />
+              </div>
+              <br>
+              <input type="submit" class="button btn-primary" />
+            </form>
+          </div>
+        </div>
+    </div>
+</div>
+  </body>
+</html>

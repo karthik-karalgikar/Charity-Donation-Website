@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>upi details</title>
+    <link rel="stylesheet" href="receiverupi.css"/>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row col-md-6 col-md-offset-3">
+        <div class="panel panel-primary">
+          <div class="panel-heading text-center">
+            <h1>ENTER DETAILS</h1>
+          </div>
+          <div class="panel-body">
+            <form action="upi.php" method="post">
+             <div class="input-div form-group">
+                    <label for="Org_ID">Enter Organisation ID: </label>
+                    <input
+                    placeholder="Enter Organisation ID"
+                      type="number"
+                      class="form-control"
+                      id="Org_ID"
+                      name="Org_ID"
+                    />
+                  </div>
+                  <br>
+              <div class="input-div form-group">
+                <label for="recName">Enter Receiver name : </label>
+                <input
+                placeholder="Enter Receiver name"
+                  type="text"
+                  class="form-control"
+                  id="recName"
+                  name="recName"
+                />
+              </div>
+              <br>
+              <div class="form-group">
+                <label for="rec_upiID">Receiver UPI ID : </label>
+                <input
+                  placeholder="Enter Receiver UPI ID"
+                  type="text"
+                  class="form-control"
+                  id="rec_upiID"
+                  name="rec_upiID"
+                />
+              </div>
+              <br>
+              <br>
+              <input type="submit" class="button btn-primary" />
+            </form>
+          </div>
+        </div>
+    </div>
+</div>
+  </body>
+</html>
