@@ -19,3 +19,6 @@ Screenshot 2: Showing the Login Page. Here the user has to enter their first nam
 
 <img width="658" alt="Screenshot 2023-02-08 at 2 34 49 PM" src="https://user-images.githubusercontent.com/91562537/217484112-14585934-af7a-44c1-b1fe-9ff30a998bb7.png">
 Screenshot 3 : Showing a table of different organisations. The user has to select any Organisation that he/she wants to donate to and click on the “Donate” button of the corresponding Organisation.
+
+<img width="684" alt="Screenshot 2023-02-08 at 2 35 49 PM" src="https://user-images.githubusercontent.com/91562537/217484335-1da98498-5364-4c2d-85c6-8af3542e5b2a.png">
+Screenshot 4: Showing the amount of money the user wants to donate. The user can choose any option of Food, Clothes or cash that he/she wants to contribute and our portal will verify that the user’s money will be used for that field only.
