@@ -1,4 +1,4 @@
-## A Simple Dynamic Charity Donation Website
+## Charity Donation Website
 
 ### Frontend - HTML, CSS 
 ### Backend - PHP 
