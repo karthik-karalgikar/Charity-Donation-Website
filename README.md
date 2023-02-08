@@ -22,3 +22,6 @@ Screenshot 3 : Showing a table of different organisations. The user has to selec
 
 <img width="684" alt="Screenshot 2023-02-08 at 2 35 49 PM" src="https://user-images.githubusercontent.com/91562537/217484335-1da98498-5364-4c2d-85c6-8af3542e5b2a.png">
 Screenshot 4: Showing the amount of money the user wants to donate. The user can choose any option of Food, Clothes or cash that he/she wants to contribute and our portal will verify that the user’s money will be used for that field only.
+
+<img width="687" alt="Screenshot 2023-02-08 at 2 37 15 PM" src="https://user-images.githubusercontent.com/91562537/217484678-c988d001-1690-4fbf-ab6e-5321453b48db.png">
+Screenshot 5: This page provides the user options of paying the amount to the organisation. The user can either choose Credit/Debit card or UPI/E-Wallets.
