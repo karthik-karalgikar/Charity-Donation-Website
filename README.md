@@ -9,7 +9,7 @@ Created a database named "Charity" and added 5 tables to the database namely, Us
 * The attributes of the table "Organisation" are Org_ID, Org_name, Org_Phone and Org_Address.
 * The attributes of table "Transaction" are userID, Org_ID, food, clothes and cash.
 * The attributes of table "Card" are cardNO, expDate and nameOnCard.
-* The attributes of table "UPI" are Org_ID, recName and rec_upiID. <br>
+* The attributes of table "UPI" are Org_ID, recName and rec_upiID. <br> <br>
 The following images give an insight of how the webiste looks: 
 
 <img width="791" alt="Screenshot 2023-02-08 at 2 32 09 PM" src="https://user-images.githubusercontent.com/91562537/217483528-d3c64023-ce89-4255-9b12-445fcb4207df.png">
