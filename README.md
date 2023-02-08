@@ -34,3 +34,6 @@ Screenshot 7: Showing the UPI options page. Here the user can select any one amo
 
 <img width="777" alt="Screenshot 2023-02-08 at 2 40 30 PM" src="https://user-images.githubusercontent.com/91562537/217485370-7ae19769-472e-4467-beb5-65f2c09bf003.png">
 Screenshot 8: Showing the UPI details page. Here the user will have to enter the Organisation ID, Receiver’s name, and the receiver’s UPI ID. When the user clicks on submit, the payment is done.
+
+<img width="782" alt="Screenshot 2023-02-08 at 2 41 25 PM" src="https://user-images.githubusercontent.com/91562537/217485557-9f33deee-4838-4610-8b82-814c0b7960b3.png">
+Screenshot 9: Showing the thank you note. When the user clicks on “submit” on the “card details” page or the “Upi details” page, the congratulations page opens up which informs the user that the payment is successful.
