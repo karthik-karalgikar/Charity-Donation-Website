@@ -16,3 +16,6 @@ Screenshot 1 : Showing the homepage. When the user clicks on the “DONATE” bu
 
 <img width="658" alt="Screenshot 2023-02-08 at 2 33 49 PM" src="https://user-images.githubusercontent.com/91562537/217483865-562c18df-06a2-4ca2-8d60-0e8cb5836375.png">
 Screenshot 2: Showing the Login Page. Here the user has to enter their first name, last name, email, create a password and then enter their phone number and click on submit. They will be directed to the organisation table where they have to select an organisation.
+
+<img width="658" alt="Screenshot 2023-02-08 at 2 34 49 PM" src="https://user-images.githubusercontent.com/91562537/217484112-14585934-af7a-44c1-b1fe-9ff30a998bb7.png">
+Screenshot 3 : Showing a table of different organisations. The user has to select any Organisation that he/she wants to donate to and click on the “Donate” button of the corresponding Organisation.
