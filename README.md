@@ -28,3 +28,6 @@ Screenshot 5: This page provides the user options of paying the amount to the or
 
 <img width="736" alt="Screenshot 2023-02-08 at 2 38 23 PM" src="https://user-images.githubusercontent.com/91562537/217484930-9a1437c2-18e0-4532-a7d9-226dec08b848.png">
 Screenshot 6: Showing the Card details page. Here the user will have to enter the card number, expiration date, Name on card and their CVV. Everything except CVV will be stored in the database so that the user can make the donation quickly the next time.
+
+<img width="755" alt="Screenshot 2023-02-08 at 2 39 27 PM" src="https://user-images.githubusercontent.com/91562537/217485148-041fbd62-884c-48c4-b215-8c6214b3dda2.png">
+Screenshot 7: Showing the UPI options page. Here the user can select any one among the three payment options, Pay, PhonePe or Paytm. When the user clicks on submit, the entering details page opens up.
